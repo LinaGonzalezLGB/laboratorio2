@@ -1,0 +1,29 @@
+body{
+	background-color: skyblue;
+}
+h1{
+	font-family: 'Metamorphous', cursive;
+	font-size: 50px;
+	color: purple;
+}
+h2{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 40px;
+	color: gray;
+}
+.p1{
+	color: blue;
+	font-size: 20px;
+	font-family: 'Acme', sans-serif;
+}
+img{
+	display: block;
+}
+h3{
+	font-family: 'Metamorphous', cursive;
+	font-size: 28px;
+}
+h4{
+	font-family: 'Abril Fatface', cursive;
+	font-size: 23px;
+}
